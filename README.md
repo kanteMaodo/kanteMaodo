@@ -24,12 +24,12 @@ J'aime concevoir des architectures robustes et relever des défis techniques com
 
 ### 🖥️ Backend & Logique Métier
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,go,rust,java,cpp,cs,php" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,java,cpp,cs,php,laravel" alt="Backend Technologies" />
 </p>
 
 ### 🌐 Frontend & Interfaces Web
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,vue,tailwind,html,css,js" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind,html,css,js" alt="Frontend Technologies" />
 </p>
 
 ### 📱 Applications Mobiles & Multiplateformes
