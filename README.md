@@ -34,12 +34,12 @@ J'aime concevoir des architectures robustes et relever des défis techniques com
 
 ### 📱 Applications Mobiles & Multiplateformes
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,react" alt="Mobile Technologies" />
+  <img src="https://skillicons.dev/icons?i=flutter,react" alt="Mobile Technologies" />
 </p>
 
 ### ⚙️ Frameworks, DevOps & Bases de données
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,mongodb,redis,aws,linux,git,github,nginx" alt="DevOps and Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,mongodb,redis,aws,linux,git,github,gitlab,githubactions,nginx" alt="DevOps and Tools" />
 </p>
 
 ---
